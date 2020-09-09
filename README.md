@@ -43,9 +43,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
 💫 Github Stats
 
   <img align="left" alt="shun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shunchiang&show_icons=true&hide_border=true&theme=vue" />
