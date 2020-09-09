@@ -10,9 +10,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🔥Fun fact: I am also passionate about food and I used to be a Chef!
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="shun Spotify Playing" width="350" />](https://open.spotify.com/user/21xu2h4grdesgkhyjc5yxzu2a)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="shun Spotify Playing" width="350" />](https://open.spotify.com/user/21xu2h4grdesgkhyjc5yxzu2a) -->
 
 ### Connect with me:
 
