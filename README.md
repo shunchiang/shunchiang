@@ -1,6 +1,6 @@
 ### I'm Shun and welcome to my Github ✨
 
-[https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fshunchiang-web-portfolio.now.sh%2F]
+[![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fshunchiang-web-portfolio.now.sh%2F)](https://shunchiang-web-portfolio.now.sh/)
 
 ## I'm a fullstack web developer with a focus on empathy in design!
 
@@ -42,9 +42,6 @@
 
 <br />
 <br />
-
-💫 Github Stats
-
   <img align="left" alt="shun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shunchiang&show_icons=true&hide_border=true&theme=vue" />
 
 [website]: https://shunchiang-web-portfolio.now.sh/
