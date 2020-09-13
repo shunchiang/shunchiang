@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fshunchiang-web-portfolio.now.sh%2F)](https://shunchiang-web-portfolio.now.sh/)
 
-## I'm a fullstack web developer with a focus on empathy in design!
+## I'm a fullstack web developer with a focus on empathy and usability
 
 - ⚡ I’m currently working on a freelance project for a local client
 - 🌱 I’m currently learning next.js and graphQL
